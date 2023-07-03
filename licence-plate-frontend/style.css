@@ -1,0 +1,32 @@
+.licence-plate-input-wrapper {
+    display: flex;
+    align-items: center;
+}
+.licence-plate-input-wrapper .dutch-emblem {
+    height: 2.5rem;
+    background: blue;
+    color: #fff;
+    width: 1.75rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.25rem 0;
+    box-sizing: border-box;
+}
+.licence-plate-input-wrapper .dutch-emblem img {
+    width: 0.8rem;
+}
+.licence-plate-input-wrapper .dutch-emblem span {
+    font-size: 0.6rem;
+    font-family: Arial;
+}
+.licence-plate-input-wrapper .licence-plate-input {
+    background: #edb638;
+    height: 2.5rem;
+    padding: 0 1rem;
+    border: none;
+    outline: none;
+    font-size: 1.5rem;
+    width: 10ch;
+}

@@ -1,0 +1,9 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "phpfastcache/phpfastcache": "^9.1"
+    },
+    "config": {
+        "platform-check": false
+    }
+}
